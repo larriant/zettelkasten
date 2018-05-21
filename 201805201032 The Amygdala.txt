@@ -1,0 +1,48 @@
+title: 201805201032 The Amygdala
+date: 2018-05-20 10:32
+tags:  #neuroscience #brainstructure
+
+The amygdala is the archetypal limbic structure.
+
+Is it central to mediating agression.
+
+## Evidence
+1. When animals are being aggressive. Amygdala neurons have action potentials.
+
+2. Lesion amygdala in an animal -> rates of aggression decline.
+
+3. Show human subjects pictures that provoke anger -> the amygdala activates
+
+4. [[201805201036 The Texas Tower Sniper]]
+
+## Amygdala and Fear
+Amygdala is also linked with feeling afraid and anxious.
+
+Crucially, the brain region most involved in feeling afraid and anxious is most involved in generating aggression.
+
+The amygdala helps mediate both innate and learned fear.
+
+Innate fear (aka a phobia): you don't have to learn by trial and error that something is aversive.
+
+"Prepared learning": instead of inevitable fear, we will more easily learn to be afraid of snakes and spiders than pandas or beagles.
+
+Central amygdala has key role in innate fears.
+
+Surrounding it the basolateral amygdala (BLA) which learns fear and then sends the news to the central amygdala.
+
+In the[[201805201045 The Ultimatum Game]] research shows that rejecting an offer is an emotional decision, triggered by anger at a lousy offer and the desire to punish.
+
+# Inputs to the amygdala
+1. The BLA gets projections from all the sensory systems.
+2. Usually this is via the cortex but there is also a shortcut. So the amygdala can scream "it's a gun" super quickly.
+3. Information about pain. This is mediated by the "periaqueductal gray" (PAG).
+4. Disgust of all stripes. "Insular cortex" projects this.
+
+# Outputs from the amygdala
+1. Bidirectional connections.
+2. The hippocampus. 
+3. Motor outputs. Also shortcut to allow amygala to talk directly.
+4. Arousal. Layer 2 limbic amygdala signals layer 1 regions, and heart rate and blood pressure soar.
+
+
+Amygdala’s dual role in both aggression and facets of fear and anxiety.

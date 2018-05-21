@@ -1,0 +1,11 @@
+title: 201805211323 Epistemology
+date: 2018-05-21 13:23
+tags: #epistemology #summary
+
++ Justified True Belief
++ Internalism
++ Externamism
++ Reliabilism
+
+[[201805211316 Foundationalism]]
+[[201805211318 Coherentism]]

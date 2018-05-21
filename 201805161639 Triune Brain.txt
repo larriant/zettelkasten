@@ -1,0 +1,26 @@
+title: 201805161639 Triune Brain Theory
+date: 2018-05-16 16:39
+tags: #neuroscience
+
+A simple model of the human brain that divides it into 3 sections:
+
+1. Layer 1: The Reptilian Brain
+    + Mediates automatic, regulatory functions.
+    + If body temperature drops. This brain region senses it and sends commands to shiver.
+
+2. Layer 2: The Limbic System
+    + Somewhat of a mammalian invention.
+    + To do with emotions.
+    + If you see something gruesome and terrifying, this layer sends commands down to anciet layer 1, making you shiver with emotion.
+
+3. The Cortex
+    + Hugely expanded area in primates.
+    + Cognition, memory storage, sensory processing, abstractions, philosophy.
+    + Read a scary passage of a book, and layer 3 siganls layer 2 to make you feel frightened, proptimng later 1 to initiate shivers.
+
+## Disadvantages
+1. Anatomically there is considerable overlap among the three layers.
+2. The flow of information and commands is not just top down. (if someone is holding a cold they're more likely to judge someone they meet as having a cold personality.)
+3. Automatic aspects of behaviour are not seperable.
+4. Leads one to erroneously think that evolution slapped on each new layer without any changes occurring in what was already there.
+
