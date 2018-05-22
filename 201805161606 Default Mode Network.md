@@ -9,7 +9,7 @@ The DMN is engaged during higher level meta-cognition activities such as:
 
 Metacognition is the ability to reflect on one's own thoughts and behaviors. These functions may be exclusive to humans.
 
-The DMN serves as a central orchestrator or conductor of global brain function. i.e. the seat of the ego.
+The DMN serves as a central orchestrator or conductor of global brain function. i.e. it's the seat of the ego.
 
 DMN activity is reduced during:
 + psychadelics

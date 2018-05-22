@@ -1,0 +1,433 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "title: 201805171815 Biopsychosocial Sphere\ndate: 2018-05-17 18:15\ntags: #sociology\n\nThe main areas that interact to create public health.\n\n![BioPsychoSocial](media/biopsychosocial.png)\n\n*Biological*\n+ Genetics\n+ Physiological\n+ Neurology\n+ Disability\n\n*Psychological*\n+ Beliefs\n+ Neurosis\n+ Skills\n+ Personality\n\n*Social*\n+ Social System\n+ Culture\n+ Economic Status\n+ Religion\n\nEcological factors are also a macro influence.",
+			"file": "201805171815 Biopsychosocial Sphere.md",
+			"file_size": 424,
+			"file_write_time": 131714472729690202,
+			"settings":
+			{
+				"buffer_size": 424,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "201805162053 Apophenia.md",
+			"settings":
+			{
+				"buffer_size": 186,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".search_results.zkr",
+			"settings":
+			{
+				"buffer_size": 390,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".saved_searches.zks",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"show",
+				"ZK: Show all Notes"
+			],
+			[
+				"hide",
+				"ZK: Hide Images"
+			],
+			[
+				"sho",
+				"ZK: Show Images"
+			],
+			[
+				"zk ma",
+				"Set Syntax: Markdown Zettelkasten"
+			],
+			[
+				"sh",
+				"ZK: Show Images"
+			],
+			[
+				"zk",
+				"ZK: Hide Images"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Add R",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/julyandavey/Dropbox/Zettelkasten"
+	],
+	"file_history":
+	[
+		"/Users/julyandavey/Dropbox/Zettelkasten/.search_results.zkr",
+		"/Users/julyandavey/Dropbox/Zettelkasten/201805161544 Attachment Theory.md",
+		"/Users/julyandavey/Library/Application Support/Sublime Text 3/Packages/sublime_zk/sublime_zk.sublime-settings",
+		"/Users/julyandavey/Dropbox/Zettelkasten/201805161606 Default Mode Network.txt",
+		"/Users/julyandavey/Dropbox/Zettelkasten/201805171815 Biopsychosocial Sphere.txt",
+		"/Users/julyandavey/Library/Application Support/Sublime Text 3/Packages/User/sublime_zk.sublime-settings",
+		"/Users/julyandavey/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/test.md",
+		"/Users/julyandavey/Dropbox/Zettelkasten/201805161536 Attachment in Adults.txt",
+		"/Users/julyandavey/Downloads/facebook-julyandavey/messages/613.html",
+		"/Users/julyandavey/NearSt/near.st/src/assets/images/group-12.svg"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "201805171815 Biopsychosocial Sphere.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 424,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297,
+								297
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime_zk/sublime_zk.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "201805162053 Apophenia.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime_zk/sublime_zk.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": ".search_results.zkr",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 390,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/sublime_zk/zk-mode/sublime_zk_results.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": ".saved_searches.zks",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								36
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/sublime_zk/zk-mode/sublime_zk_search.tmTheme",
+							"syntax": "Packages/sublime_zk/zk-mode/sublime_zk_search.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.7,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.8,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "zettelkasten.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Ap",
+				"201805162053 Apophenia.md"
+			],
+			[
+				"Att",
+				"201805161544 Attachment Theory.md"
+			],
+			[
+				"Bios",
+				"201805171815 Biopsychosocial Sphere.md"
+			],
+			[
+				"Bio",
+				"201805171815 Biopsychosocial Sphere.txt"
+			],
+			[
+				"d",
+				"201805161606 Default Mode Network.txt"
+			],
+			[
+				"bios",
+				"201805171815 Biopsychosocial Sphere.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

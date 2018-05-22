@@ -4,7 +4,7 @@ tags: #sociology
 
 The main areas that interact to create public health.
 
-![BioPsychoSocial](media/biopsychosocial.jpg)
+![BioPsychoSocial](media/biopsychosocial.png)
 
 *Biological*
 + Genetics
