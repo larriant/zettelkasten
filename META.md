@@ -115,7 +115,7 @@ Maybe I should have a (type) meta tag that determines which type of card you are
 
 If this was the first tag of the Zettel then I would be able to look at this tag to see how to programmatically create the anki cards.
 
-I 
+I think this should cause a git
 
 ## Publishable online
 Eventually it would be great to be able to share my Zettelkasten with others.
