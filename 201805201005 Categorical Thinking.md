@@ -3,7 +3,6 @@ title: 201805201005 Categorical Thinking
 date: 2018-05-20 10:05
 tags: #rationality 
 ---
-
 To simplify the complexity of the world humans often think about things in terms of categories.
 
 Instead of remembering absolute features like the particular colour of blue we remember: "It's a blue..."
