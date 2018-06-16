@@ -1,6 +1,8 @@
+---
 title: 201805181719 Kohlberg Stages of Development
 date: 2018-05-18 17:19
 tags: #psychology #morality #philosophy
+---
 
 Kohlberg's theory states that there are 6 stages of moral development. 
 

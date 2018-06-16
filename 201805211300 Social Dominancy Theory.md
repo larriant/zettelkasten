@@ -1,10 +1,12 @@
+---
 title: 201805211300 Social Dominance Theory
 date: 2018-05-21 13:00
 tags: #psychology
+---
 
 Humans are predisposed to group-based social hierarchies by nature.
 
-All familiar froms of group-based oppression. e.g racism, ethnocentrism, classism, sexism etc are special cases of a more general tendency for humans to form and maintain group-based hierarchy.
+All familiar forms of group-based oppression. e.g racism, ethnocentrism, classism, sexism etc are special cases of a more general tendency for humans to form and maintain group-based hierarchy.
 
 Strategic oppression is deemed an immutable consequence of human nature.
 

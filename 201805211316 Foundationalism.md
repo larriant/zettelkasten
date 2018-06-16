@@ -1,6 +1,8 @@
+---
 title: 201805211316 Foundationalism
 date: 2018-05-21 13:16
 tags: #philosophy #epistemology
+---
 
 Foundationalism is the view that all knowledge ultimately rests on a foundation of non-inferential understandings or pre-justified belief.
 

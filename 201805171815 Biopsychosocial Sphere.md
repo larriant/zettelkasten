@@ -1,6 +1,8 @@
+---
 title: 201805171815 Biopsychosocial Sphere
 date: 2018-05-17 18:15
 tags: #sociology
+---
 
 The main areas that interact to create public health.
 

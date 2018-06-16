@@ -1,11 +1,12 @@
+---
 title: 201805161536 Attachment in Adults
 date: 2018-05-16 15:40
 tags: #psychology #attachment
+---
 
 [[201805161544 Attachment Theory]] can be applied to adult relationships.
 
 Four main styles of attachment have been identified in adults:
-
 ## Secure
 + Results from a history of warm and responsive interactions with their attachments.
 + Have positive views of themselves and their attachments.

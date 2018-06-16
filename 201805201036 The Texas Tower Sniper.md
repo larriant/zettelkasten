@@ -1,6 +1,8 @@
+---
 title: 201805201036 The Texas Tower Sniper
 date: 2018-05-20 10:36
 tags: #neuroscience #philosophy #psychology #examples
+---
 
 Charles whitman opened fire atop a tower at the university of Texas in Austin killing sixteen people.
 

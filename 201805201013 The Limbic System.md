@@ -1,6 +1,8 @@
+---
 title: 201805201013 The Limbic System
 date: 2018-05-20 10:13
 tags: #neuroscience
+---
 
 Limbic function is now recognized as central to the emotions that fuel our best and worst behavior.
 

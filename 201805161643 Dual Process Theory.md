@@ -1,6 +1,8 @@
+---
 title: 201805161643 Dual Process Theory
 date: 2018-05-16 16:43
-tags: #psychology #behaviouraleconomic #rationality
+tags: #psychology #behaviouraleconomics #rationality
+---
 
 The idea that there is a dichotomy between two "modes" of thought.
 

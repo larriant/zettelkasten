@@ -1,8 +1,10 @@
+---
 title: 201805161606 Default Mode Network
 date: 2018-05-16 16:07
 tags: #neuroscience #psychadelics #meditation
+---
 
-The DMN is engaged during higher level meta-cognition activities such as:
+The Default Mode Network is engaged during higher level meta-cognition activities such as:
 + Self-reflection
 + Theory of Mind
 + Mental Time Travel

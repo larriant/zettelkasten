@@ -1,6 +1,8 @@
+---
 title: 201805201003 Bucket Thinking
 date: 2018-05-20 10:03
 tags: #behaviour #rationality
+---
 
 We often break down human behaviour into buckets.
 
