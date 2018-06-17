@@ -3,10 +3,10 @@ title: 201805201036 The Texas Tower Sniper
 date: 2018-05-20 10:36
 tags: #neuroscience #philosophy #psychology #examples
 ---
+Charles whitman opened fire atop a tower at the university of Texas in Austin killing sixteen people. He had a tumor pressing on his amygdala. Can we blame him?
 
-Charles whitman opened fire atop a tower at the university of Texas in Austin killing sixteen people.
-
-Whitman was literally and Eagle Scout with an IQ in the 99th percentile.
+# More
+Whitman was literally an Eagle Scout with an IQ in the 99th percentile.
 
 In prior years he had seen doctors complaining of severe headaches and violent impulses.
 

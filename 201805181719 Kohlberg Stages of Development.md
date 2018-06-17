@@ -3,7 +3,9 @@ title: 201805181719 Kohlberg Stages of Development
 date: 2018-05-18 17:19
 tags: #psychology #morality #philosophy
 ---
+A series of 6 stages of moral development that humans go through during their lives.
 
+# More
 Kohlberg's theory states that there are 6 stages of moral development. 
 
 1. Obedience and punishment orientation
@@ -23,3 +25,5 @@ Kohlberg's theory states that there are 6 stages of moral development.
 
 6. Universal ethical principles
 + Principled conscience
+
+# References

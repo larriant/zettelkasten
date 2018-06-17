@@ -3,7 +3,9 @@ title: 201805281854 Filtration Theory
 date: 2018-05-28 18:54
 tags: #psychadelics
 ---
+Filtration Theory states that the brain acts as a filter that limits information that reaches consciousness to what is biologically useful.
 
+# More
 Theory that changed the name to _psychadelic_ which means "mind-manifesting".
 
 Huxley saw the biological function of the brain as a “device” engaged in a continuous process of elimination and inhibition to sustain the “normal self” of everyday waking experience to maximize adaptive fit.

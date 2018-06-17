@@ -3,7 +3,6 @@ title: 201805281949 Integrated Information Theory
 date: 2018-05-28 19:49
 tags: #psychadelics #neuroscience
 ---
-
 IIT demonstates how [[201805161546 The Entropic Brain]] can be operationalized.
 
 IIT describes the brain’s continual challenge of minimizing entropy while retaining flexibility.

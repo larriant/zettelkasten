@@ -3,9 +3,9 @@ title: 201805201003 Bucket Thinking
 date: 2018-05-20 10:03
 tags: #behaviour #rationality
 ---
+We often break down human behaviour into explanatory buckets. Each specialist has their own explanation for behaviour form the evolutionary biologists to the neuroscientists. But in fact all of them are true.
 
-We often break down human behaviour into buckets.
-
+# More
 Behaviour: Why did the chicken cross the road?
 
 If you're an evolutionary biologist you say:
@@ -25,3 +25,5 @@ So a "neurobiological", "developmental" or "genetic" explanation is just shortha
 
 ## Similar
 [[201805201005 Categorical Thinking]]
+
+# References

@@ -3,10 +3,16 @@ title: 201805161536 Attachment in Adults
 date: 2018-05-16 15:40
 tags: #psychology #attachment
 ---
+Four main styles of attachment have been identified in adults:
 
+Secure: has positive views of themselves and their attachments.
+Anxious-preoccupied: super reliant on their attachments. Worry without them.
+Dismissive-avoidant: desire a high level of independence.
+Fearful-avoidant: afraid of attachment.
+
+# More
 [[201805161544 Attachment Theory]] can be applied to adult relationships.
 
-Four main styles of attachment have been identified in adults:
 ## Secure
 + Results from a history of warm and responsive interactions with their attachments.
 + Have positive views of themselves and their attachments.
@@ -29,3 +35,5 @@ Four main styles of attachment have been identified in adults:
 + Feel uncomfortable with emotional closeness.
 + Negative views of themselves and their attachments.
 + Not comfortable expressing affection.
+
+# References
